@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, html, css, javascript and etc...
 - 💞️ I’m looking to collaborate on any project that is challenging.
 - 📫 How to reach me in LinkedIn: Bruna Blecha Bispo
-- See you there!
+- See you soon!
 
 <!---
 Bruna-Blecha/Bruna-Blecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
