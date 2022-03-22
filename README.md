@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruna-Blecha
 - 👀 I’m interested in learn!!!
-- 🌱 I’m currently learning python, html, css, javascript and etc...
+- 🌱 I’m currently learning python, html, css, javascript and java...
 - 💞️ I’m looking to collaborate on any project that is challenging.
 - 📫 How to reach me in LinkedIn: Bruna Blecha Bispo
 - See you soon!
